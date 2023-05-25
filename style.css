@@ -75,9 +75,9 @@ background: linear-gradient(to right, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, F
 	
 	@keyframes loader {
 		0% { transform: rotate(0deg);}
-		25% { transform: rotate(180deg);}
+		25% { transform: rotate(90deg);}
 		50% { transform: rotate(180deg);}
-		75% { transform: rotate(360deg);}
+		75% { transform: rotate(270deg);}
 		100% { transform: rotate(360deg);}
 	  }
 	  
